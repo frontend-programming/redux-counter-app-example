@@ -4,7 +4,7 @@ Creting a simple counter app using Redux with React.
 
 ## Demo Link
 
-[Visit the Demo Link](https://react-redux-counter-app-example.netlify.app).
+[Visit the Demo Link](https://react-redux-counter-app-example.netlify.app){:target="_blank"}.
 
 # After you fork and clone:
 
